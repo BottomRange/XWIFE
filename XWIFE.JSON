@@ -1,0 +1,15 @@
+{
+  "name": "My Ex-Wife",
+  "symbol": "XWIFE",
+  "description": "A meme token for everyone who knows the pain.",
+  "image": "https://example.com/xwife.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BottomRange/XWIFE/refs/heads/main/xwife.webp",
+        "type": "image/webp"
+      }
+    ]
+  }
+}
